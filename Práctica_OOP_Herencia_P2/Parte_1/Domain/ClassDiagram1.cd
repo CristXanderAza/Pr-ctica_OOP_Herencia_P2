@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Práctica_OOP_Herencia_P2.Parte_1.Domain.Person">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAEAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Parte_1\Domain\Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Práctica_OOP_Herencia_P2.Parte_1.Domain.School">
+    <Position X="2.25" Y="5.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>QAAAAEAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Parte_1\Domain\School.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Práctica_OOP_Herencia_P2.Parte_1.Domain.Student">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Parte_1\Domain\Student.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Práctica_OOP_Herencia_P2.Parte_1.Domain.Teacher">
+    <Position X="8.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>JAAAAAAAAAAAAAAEAAAAAAAACCAQAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Parte_1\Domain\Teacher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Práctica_OOP_Herencia_P2.Parte_1.Domain.Subject">
+    <Position X="9.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAEAAggAEQAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Parte_1\Domain\Subject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Práctica_OOP_Herencia_P2.Parte_1.Domain.Group">
+    <Position X="7" Y="7" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAICAAAAAAAQAAAgAAAAAAAAAAAAAAAAAAIAQgAAAAA=</HashCode>
+      <FileName>Parte_1\Domain\Group.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
